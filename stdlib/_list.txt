@@ -1,0 +1,36 @@
+    div_t — int型の商と剰余を格納する構造体
+    ldiv_t — long型の商と剰余を格納する構造体
+    MB_CUR_MAX — 設定されているロケールにおけるマルチバイト文字の最大バイト数を表すマクロ
+    RAND_MAX — rand関数が返す擬似乱数の最大値
+    abort — プログラムの異常終了
+    abs — int型の絶対値
+    aligned_alloc — アライメントされたメモリブロックの割り付け（C11で追加）
+    atexit — 終了時関数の登録
+    at_quick_exit — 通常の終了時関数の登録（C11で追加）
+    atof — 文字列からdouble型への変換
+    atoi — 文字列からint型への変換
+    atol — 文字列からlong型への変換
+    bsearch — バイナリサーチ
+    calloc — メモリブロックの割り付けとクリア
+    div — int型どうしの商と剰余
+    exit — プログラムの終了
+    free — メモリブロックの解放
+    getenv — 環境変数の参照
+    labs — long型の絶対値
+    ldiv — long型どうしの商と剰余
+    malloc — メモリブロックの割り付け
+    mblen — マルチバイト文字の構成バイト数
+    mbstowcs — マルチバイト文字列からワイド文字列への変換
+    mbtowc — マルチバイト文字からワイド文字への変換
+    qsort — クイックソート (ただし、仕様上はソートを行うとあるだけで「クイックソートによる」とは書かれていない)
+    quick_exit — 通常のプログラムの終了（C11で追加）
+    rand — 擬似乱数
+    realloc — メモリブロックの再割り付け
+    srand — 乱数種の設定
+    strtod — 文字列からdouble型への変換
+    strtol — 文字列からlong型への変換（基数指定可）
+    strtoul — 文字列からunsigned long型への変換（基数指定可）
+    system — コマンドプロセッサの呼び出し
+    wcstombs — ワイド文字列からマルチバイト文字列への変換
+    wctomb — ワイド文字列からマルチバイト文字列への変換
+    

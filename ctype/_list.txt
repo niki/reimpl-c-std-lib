@@ -1,0 +1,15 @@
+    isalnum — 英数字かどうかの判別
+    isalpha — 英字かどうかの判別
+    isblank — 単語を区切る文字かどうかの判定
+    iscntrl — 制御文字かどうかの判別
+    isdigit — 数字かどうかの判別
+    isgraph — 空白（' '）を除く表示文字かどうかの判別
+    islower — 小文字かどうかの判別
+    isprint — 表示文字かどうかの判別
+    ispunct — 区切り文字かどうかの判別
+    isspace — 空白類文字かどうかの判別
+    isupper — 大文字かどうかの判別
+    isxdigit — 16進数字かどうかの判別
+    tolower — 小文字への変換
+    toupper — 大文字への変換
+    
